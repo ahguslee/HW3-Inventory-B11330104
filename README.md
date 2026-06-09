@@ -1,10 +1,5 @@
 HW3 存貨資料庫測試案例說明
 
-GitHub 連結：
-（請貼上自己的 GitHub Repository 連結）
-
-助教權限：
-已將 cookiecatowo、penpenpenguin 加入 GitHub Repository 可存取名單。
 
 使用工具：
 本次作業使用 Android Studio、GitHub、ChatGPT，以及 Android Studio 內建的 Gemini 輔助產生與修正測試程式。
